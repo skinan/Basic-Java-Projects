@@ -10,8 +10,7 @@ public class RunSystem {
     public static void main(String[] args)
     {
         System.out.println("Assignment 2 : Food Shops Management System");
-        System.out.println("Muhammad Sakib Khan Inan , ID: 182000112 \n");
-
+        
         Restaurant Shangrila = new Restaurant("Shangrila", "Agrabad, Chittagong");
         // Create tables for Restaurant.
         Table tResA = new Table(4);
