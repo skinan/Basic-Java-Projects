@@ -3,8 +3,7 @@ package library;
 public class Library {
     public static void main(String []args)
     {
-        System.out.println("A Simple Library Management System:\n" + "Lab Assignment No. 1,"
-                + " ID - 182000112 \n");
+        System.out.println("A Simple Library Management System:\n" + "Lab Assignment No. 1");
 
         // Create book(object) of a specific edition.
         // Book 1
