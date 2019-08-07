@@ -1,2 +1,5 @@
 # Introduction-To-Java
-Simple Java projects done for OOP Course of B.S. in Computer Science &amp; Engineering. 
+
+Simple Java projects done for Object Oriented Programmming Course of B.Sc. in Computer Science & Engineering.
+
+Credit: Saad Mohammad Abrar (Instructor of my Java Course)
