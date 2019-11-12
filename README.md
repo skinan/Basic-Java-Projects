@@ -1,4 +1,4 @@
-# Introduction-To-Java
+# Basic-Java-Projects
 
 Simple toy projects(Console App) done for Object Oriented Programmming Course of B.Sc. in Computer Science & Engineering.
 
